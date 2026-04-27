@@ -1,0 +1,3 @@
+setup:
+  project: vim-in-ghostty
+  config: gh
